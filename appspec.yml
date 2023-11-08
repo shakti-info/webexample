@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /hello.html
+  - source: /HelloServlet.java
     destination: /var/www/html/
 hooks:
   BeforeInstall:
